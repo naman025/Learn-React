@@ -21,7 +21,7 @@ const Demo = () => {
             Hola Amigos!
         </h1>
         <p>
-            This is a React App using functional component
+            This is a React App using functional componentl
         </p>
     </div>
 }

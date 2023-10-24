@@ -1,0 +1,19 @@
+.avatar-style img{
+    width: 200px;
+}
+
+.avatar-style{
+    background-color: rgb(140, 79, 198);
+}
+
+.avatar-style:hover{
+    transform: scale(1.05);
+    transition-property: transform;
+    transition-duration: 0.8s;
+}
+
+.btn-hover:hover{
+    transform: scale(1.02);
+    transition-property: transform;
+    transition-duration: 0.2s;
+}
